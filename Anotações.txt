@@ -1,0 +1,2 @@
+Para executar o arquivo javascript: node aula.js (nome do arquivo)
+Sempre que quiser imprimir: console .log("texto")
